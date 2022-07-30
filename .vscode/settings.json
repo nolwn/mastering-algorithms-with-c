@@ -1,0 +1,7 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "singly-linked-list.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}

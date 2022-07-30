@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/nolan/Documents/GitHub/mastering-algorithms-with-c'
+mkdir -p build
+gcc src/*.c -o build/out
+make: Leaving directory '/home/nolan/Documents/GitHub/mastering-algorithms-with-c'
+ 
